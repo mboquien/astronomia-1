@@ -4,3 +4,4 @@ Bonjour
 Hi
 привет
 Ḧo;a
+Cześć.
